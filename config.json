@@ -1,0 +1,6 @@
+{
+  "maxTeams": 20,
+  "fontOptions": ["Arial", "Calibri"],
+  "colorOptions": ["#000000", "#FF0000"],
+  "dbType": "sqlite"
+}
